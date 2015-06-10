@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Fernando Mayo <fernando@tutum.co>, Feng Honglin <hfeng@tutum.co>
+MAINTAINER Goutham Veeramachaneni <cs14btech11014@iith.ac.in>
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
